@@ -1178,7 +1178,7 @@
 		62CA59AF1E3C173B002D7188 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1130;
+				LastUpgradeCheck = 1140;
 				ORGANIZATIONNAME = Airbnb;
 				TargetAttributes = {
 					62CA59B71E3C173B002D7188 = {
